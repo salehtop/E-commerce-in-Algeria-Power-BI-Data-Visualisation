@@ -34,7 +34,7 @@ Or directly in your browser (recommended: Microsoft Edge)
 
 Microsoft Excel – Data cleaning, merging, preparation
 Microsoft Power BI – Interactive dashboard creation and visualization
-
+ClickUp – Used to generate and export the PDF version of the report
 
 🤝 Collaboration & Contact
 
